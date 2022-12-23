@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-Hey I'm making edits
+challenges of the code
